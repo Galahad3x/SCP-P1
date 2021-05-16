@@ -19,14 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b19fe25-15a0-4fc4-a17c-82b41ba31b3a" name="Default Changelist" comment="arreglat algo crec (?)">
-      <change beforePath="$PROJECT_DIR$/../Concurrent_C/manfutc.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Concurrent_C/manfutc.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Concurrent_Java/Manfutc$ManfutcThreads.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Concurrent_Java/Manfutc$ManfutcThreads.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Concurrent_Java/Manfutc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Concurrent_Java/Manfutc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Equip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Equip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Manfutc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Manfutc.java" afterDir="false" />
-    </list>
+    <list default="true" id="3b19fe25-15a0-4fc4-a17c-82b41ba31b3a" name="Default Changelist" comment="arreglat algo crec (?)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +43,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="kotlin.migration.detection.enabled" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
@@ -81,6 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604679511734</updated>
+      <workItem from="1618390983460" duration="184000" />
     </task>
     <task id="LOCAL-00001" summary="arreglat algo crec (?)">
       <created>1606331627127</created>
@@ -91,6 +87,9 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
